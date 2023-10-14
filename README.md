@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on projects to extract insights and make predictions/recommendations on challenging data sets.
 - 📫 How to reach me: navjotkauriit@gmail.com
 
+Recently I have started to write down things. Please find the latest content here: https://nka77.github.io/
+
